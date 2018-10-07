@@ -1,0 +1,38 @@
+* { 
+    margin: 0; padding: 0; 
+}
+
+body { 
+    font: 16px Helvetica, Sans-Serif; line-height: 24px;
+}
+
+.container {
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+.info {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+
+.info ul {
+    list-style: none;
+    margin-left: 20px;
+    margin-bottom: 30px;
+}
+
+.info .objective {
+    font-style: italic;
+}
+
+.name {
+    font-size: 24px;
+    margin-bottom: 30px;
+}
+
+.photo img{
+    height: 300px;
+}
+
