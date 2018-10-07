@@ -17,7 +17,7 @@ body {
     margin-top: 50px;
 }
 
-.info ul {
+ul {
     list-style: none;
     margin-left: 20px;
     margin-bottom: 30px;
@@ -36,3 +36,22 @@ body {
     height: 300px;
 }
 
+.skills, 
+.samples, 
+.experience, 
+.education,
+.english {
+    margin-top: 30px;
+}
+
+.skills p,
+.samples p, 
+.experience p, 
+.education p,
+.english p {
+    margin-top: 10px;
+}
+
+.english {
+    margin-bottom: 50px;
+}
