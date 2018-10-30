@@ -3,7 +3,7 @@
 }
 
 body { 
-    font: 16px Helvetica, Sans-Serif; line-height: 24px;
+    font: 16px Helvetica, Sans-Serif;
 }
 
 .container {
@@ -21,6 +21,10 @@ ul {
     list-style: none;
     margin-left: 20px;
     margin-bottom: 30px;
+}
+
+.single-li {
+    margin-left: 20px;
 }
 
 .info .objective {
